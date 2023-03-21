@@ -10,3 +10,8 @@ Then open Postman and call http://127.0.0.1:8000/upload-csv/ with GET Method.
 Then call http://localhost:8000/top-50-rows/?column_name=emp_name&sort_order=desc&count=50 with POST Method
 You can change the coulmn_name(emp_num or emp_name), sort_order(asc,desc), count accordingly.
 And you will get the sorted order data for provided number of count or default 50 counts in JSION format.
+Demo Video:
+
+
+https://user-images.githubusercontent.com/35214065/226572261-37c358c8-beb8-44f0-98ab-e4ca5a1347bf.mp4
+
